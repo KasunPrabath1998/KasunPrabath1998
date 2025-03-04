@@ -9,11 +9,11 @@
   
 - 🌱 I’m currently learning **MERN**
 
-- 🧑‍🎓 I’m an Undergraduate at **SLIIT**
+- 🧑‍🎓 I’m an Undergraduate at **Esoft Metro Campus**
 
 - 💬 Ask me about **Java**
 
-- 📫 How to reach me **kaveen.dinethma@gmail.com**
+- 📫 How to reach me **kasunprabath520@gmail.com**
   
 - ⚡ Fun fact **Call me as Kasun**
 

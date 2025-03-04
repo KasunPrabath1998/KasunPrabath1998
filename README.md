@@ -3,13 +3,13 @@
             text-align: center;
         }
         .profile-img {
-            width: 200px; /* Adjust the size as needed */
-            border-radius: 50%; /* Makes the image circular */
+            width: 200px; 
+            border-radius: 50%; 
         }
     </style>
 
   <div class="center">
-        <img src="e36ec678-7984-4cdd-8e4c-a3932772ff8e.gif" alt="Kasun Prabath" class="profile-img">
+        <img src="about_me.gif">
         <h1>Hi 👋, I'm Kasun Prabath</h1>
         <h3>Passionate IT Student | Exploring the Boundless World of Technology</h3>
     </div>

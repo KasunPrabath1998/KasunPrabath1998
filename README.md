@@ -1,10 +1,18 @@
+ <style>
+        .center {
+            text-align: center;
+        }
+        .profile-img {
+            width: 200px; /* Adjust the size as needed */
+            border-radius: 50%; /* Makes the image circular */
+        }
+    </style>
 
-
-
-
-<h1 align="center">Hi 👋, I'm Kasun Prabath</h1>
-
-<h3 align="center">Passionate IT Student | Exploring the Boundless World of Technology</h3>
+  <div class="center">
+        <img src="e36ec678-7984-4cdd-8e4c-a3932772ff8e.gif" alt="Kasun Prabath" class="profile-img">
+        <h1>Hi 👋, I'm Kasun Prabath</h1>
+        <h3>Passionate IT Student | Exploring the Boundless World of Technology</h3>
+    </div>
 
 - 🌱 I’m currently learning **Django, React.js, React Native, Spring Boot**
 

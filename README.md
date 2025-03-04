@@ -1,6 +1,10 @@
+
+
+
+
 <h1 align="center">Hi 👋, I'm Kasun Prabath</h1>
 
-<h3 align="center">A passionate full stack developer from Sri Lanka</h3>
+<h3 align="center">Passionate IT Student | Exploring the Boundless World of Technology</h3>
 
 - 🌱 I’m currently learning **Django, React.js, React Native, Spring Boot**
 

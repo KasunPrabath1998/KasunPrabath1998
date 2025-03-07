@@ -11,7 +11,7 @@
 
 - 🧑‍🎓 I’m an Undergraduate at **Esoft Metro Campus**
 
-- 💬 Ask me about **PHP**
+- 💬 Ask me about **Java**
 
 - 📫 How to reach me **kasunprabath520@gmail.com**
   
